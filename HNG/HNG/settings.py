@@ -26,7 +26,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://dirt-funky-waste.glitch.me','localhost']
+ALLOWED_HOSTS = ['https://emmyayo.pythonanywhere.com','localhost']
 
 
 # Application definition
