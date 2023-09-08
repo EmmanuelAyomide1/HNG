@@ -9,6 +9,6 @@ def Jsonresp(request):
             "current_day":day,
             "utc_time":utc_time,
             "track":track,
-            "github_file_url":"https://github.com/EmmanuelAyomide1/HNG/tree/main/HNG",
+            "github_file_url":"https://github.com/EmmanuelAyomide1/HNG/blob/main/HNG/stage1/views.py",
             "github_repo_url":"https://github.com/EmmanuelAyomide1/HNG",
             "status-code":200})
