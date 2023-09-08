@@ -11,4 +11,4 @@ def Jsonresp(request):
             "track":track,
             "github_file_url":"https://github.com/EmmanuelAyomide1/HNG/blob/main/HNG/manage.py",
             "github_repo_url":"https://github.com/EmmanuelAyomide1/HNG",
-            "status-code":200})
+            "status_code":200})
