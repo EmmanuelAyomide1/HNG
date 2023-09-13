@@ -137,3 +137,5 @@ python manage.py migrate
  ```bash
 python manage.py runserver
 ```
+> Note  :
+Test file is in stage2(name=test.py)
