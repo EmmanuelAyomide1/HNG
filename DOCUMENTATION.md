@@ -6,7 +6,7 @@
 + ##### Request
 	+ Request Method: `POST`
 	
-	+ Endpoint :`https://pamd.com/api` 
+	+ Endpoint :`https://hng-stage2-e6ly.onrender.com/api` 
 	
     + Request body: 
 	```json
@@ -30,7 +30,7 @@
 + ##### Request
 	+ Request Method: `GET`
 	
-	+ Endpoint: `https://pamd.com/api` 
+	+ Endpoint: `https://hng-stage2-e6ly.onrender.com/api` 
 	
 + ##### Response
     + Status code: `200`
@@ -55,7 +55,7 @@
 + ##### Request
 	+ Request Method: `GET`
 	
-	+ Endpoint :`https://pamd.com/api/1` 
+	+ Endpoint :`https://hng-stage2-e6ly.onrender.com/api/1` 
 	
 + ##### Response
     + Status code: `200`
@@ -72,7 +72,7 @@
 + ##### Request
 	+ Request Method: `PATCH`
 	
-	+ Endpoint: `https://pamd.com/api/1` 
+	+ Endpoint: `https://hng-stage2-e6ly.onrender.com/api/1` 
 	
 	+ Request body: 
 	```json
@@ -96,7 +96,7 @@
 + ##### Request
 	+ Request Method: `DELETE`
 	
-	+ Endpoint: `https://pamd.com/api/1` 
+	+ Endpoint: `https://hng-stage2-e6ly.onrender.com/api/1` 
 	
 + ##### Response
     + Status code: `204`
@@ -116,7 +116,7 @@ git clone https://github.com/your_username/your_django_project.git
 + Copy and paste this in your .env file
 
      ```plaintext
-  secretkey=dvjhwov
+  secretkey='django-insecure-ec=fvq-o!*@jwtnjzzlhaf9_^ono^jl=j%gt)n1_(757_n0at4'
    ```
 
 ##### 3. Install Required Packages: 
