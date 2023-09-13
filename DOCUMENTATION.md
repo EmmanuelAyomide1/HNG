@@ -1,3 +1,5 @@
+# E-R model of relationships between endpoints and view functions
+! [e-r model](https://github.com/EmmanuelAyomide1/HNG/blob/main/ERmodel/graphviz.png?raw=true "e-r model")
 # Documentation
 ## Sample Requests and Responses
 #### 1. Create Operation:
